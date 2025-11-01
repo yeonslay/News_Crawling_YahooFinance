@@ -62,5 +62,5 @@
 
 # Preprocessing_pubdate
 
-게시 날짜(pubdate)를 다양한 형식에서 ISO 형식(`YYYY-MM-DD`)으로 정규화  
+발행일(pubdate)을을 다양한 형식에서 ISO 형식(`YYYY-MM-DD`)으로 정규화  
 날짜 기준으로 필터링을 하려는 경우 사용
