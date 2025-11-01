@@ -1,4 +1,4 @@
-# Crawling_from_YahooFinance (NASDAQ-100)
+# News_Crawling_YahooFinance (NASDAQ-100)
 ## 🧩 함수 구성
 
 ### 1️⃣ get_nasdaq100_tickers()
